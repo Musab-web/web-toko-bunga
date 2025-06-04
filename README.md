@@ -50,9 +50,6 @@ Informasi pengguna disimpan dengan aman menggunakan praktik standar keamanan (se
 📩 Kirim Pesan Langsung ke Admin
 Pengguna dapat mengirimkan pesan atau pertanyaan langsung ke admin melalui sistem pesan internal.
 
-<p align="center">
-  <img src="https://unesa.ac.id/images/gallery/3/507c4e3879ed77a3e14d0937a73b149e.jpg" alt="Logo UNESA" width="180"/>
-</p>
 
 <h2 align="center">👥 Profil Developer - Kelompok 1</h2>
 
