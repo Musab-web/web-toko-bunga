@@ -1,6 +1,6 @@
 ## 🌸 Toko Bunga
 
-![alt text](https://github.com/Musab00000/web-bunga/blob/main/poster%20web.jpg?raw=true)
+![alt text](https://github.com/Musab-web/web-toko-bunga/blob/main/POSTER%20WEBSITE%20TOKO%20BUNGA%20A3.png)
 
 
 🌸 Rumah Kreasi - Website Toko Bunga Online 💻
